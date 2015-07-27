@@ -1,5 +1,6 @@
 # hello-world
 This is a test by me.
+That is also a test.
 
 * I'm a bullet
 * editted
